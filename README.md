@@ -38,15 +38,15 @@ The HornedBeast component needs to contain an `<h2>` that displays the title of 
 
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
-Number and name of feature: ________________________________
+Number and name of feature: Lab 2 Features 1 - 3
 
 Estimate of time needed to complete: 4 hours
 
-Start time: _____
+Start time: 1pm
 
-Finish time: _____
+Finish time: 7pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 6 hours
 
 **Feature #1: Display Images**
 
