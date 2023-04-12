@@ -40,7 +40,7 @@ For each of the features listed below, make an estimate of the time it will take
 
 Number and name of feature: ________________________________
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 4 hours
 
 Start time: _____
 
