@@ -83,3 +83,9 @@ Actual time needed to complete: 6 hours
 **Feature 1: Display a Modal**
 As a user, I want the image to be displayed in a larger size and with the description shown so that I can view the details of a single image.
 
+## Lab 4
+
+**Feature 1: Filter by Numbers of Horns**
+
+As a user, I want to be able to view the beasts by the number of horns
+

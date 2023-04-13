@@ -7,12 +7,14 @@ import { Component } from 'react';
        likes: 0
      }
    }
+
    addClick = () => {
      this.setState({
        likes: this.state.likes + 1
      })
      this.props.display (this.props.title)
    }
+   
    render() {
      return (
         <Card onClick = {this.addClick}>
