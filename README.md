@@ -64,3 +64,22 @@ Put a heart in each HornedBeast component with the number of “Favorites” nex
 As a user, I want to see a visually pleasing application that is also reponsive when I view this application on different screen sizes.
 
 Bring in the react-bootstrap library and use it to style your application making sure that it is responsive.
+
+## Lab 3
+**Time Estimate**
+
+For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
+
+Number and name of feature: Lab 3 Feature 1
+
+Estimate of time needed to complete: 4 hours
+
+Start time: 1 pm
+
+Finish time: 7 pm
+
+Actual time needed to complete: 6 hours
+
+**Feature 1: Display a Modal**
+As a user, I want the image to be displayed in a larger size and with the description shown so that I can view the details of a single image.
+
